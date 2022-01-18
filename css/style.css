@@ -1,0 +1,50 @@
+.bg-color-green{
+    background-color: #209b35!important;
+}
+.input-pd{
+    padding: 0;
+    margin-left: 20%!important;
+}
+.space-left{
+    position: relative;
+    left: 50%;
+}
+.bg-color-blue{
+    background-color: #1b289c!important;
+}
+.font{
+    font-size: 1.2em;
+}
+.font1{
+    font-size: 1.2em;
+}
+.font2{
+    font-size: 1.4em;
+}
+.font3{
+    font-size: 1.6em;
+}
+.small{
+    font-size: 0.8em;
+}
+.disabled,[disabled]{
+    opacity:0.5;
+    pointer-events: none;
+}
+.espaço{
+    margin: 0 5px;
+}
+.campo{
+    padding: 11px;
+    background-color: #f8f8f8;
+    border: 1px solid #999;
+    border-radius: 5px;
+    margin: 10px 0;
+ }
+.title2{
+    font-weight: bold;
+}
+.addEscuro{
+    background: #1a1a1a;
+}
+ 
